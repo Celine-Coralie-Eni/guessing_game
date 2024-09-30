@@ -21,6 +21,3 @@ guessing_number() {
         echo "You lose! The correct number was $rand_number."
     fi
 }
-
-# Call the function with a range (e.g., 10)
-guessing_number 10
